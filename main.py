@@ -1,5 +1,5 @@
-def       helloworld(a):
-    print("Hello World! {a}")#asd
+def helloworld(a):
+    print("Hello World! {a}")  # asd
 
 
 if __name__ == "__main__":
