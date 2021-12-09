@@ -1,5 +1,4 @@
 import unittest
-
 import main
 
 class MainTest(unittest.TestCase):
@@ -9,3 +8,4 @@ class MainTest(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+    
